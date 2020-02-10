@@ -1,0 +1,23 @@
+{
+  "name": "firstpackage",
+  "version": "1.0.0",
+  "description": "An example of an NPM package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamiehewitt15/NPMPackageExample.git"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Jamie Hewitt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamiehewitt15/NPMPackageExample/issues"
+  },
+  "homepage": "https://github.com/jamiehewitt15/NPMPackageExample#readme"
+}
